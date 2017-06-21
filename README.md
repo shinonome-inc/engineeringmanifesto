@@ -39,3 +39,4 @@
 @t-hiroyoshi,
 @shagami,
 @risagon,
+@motoakim,
