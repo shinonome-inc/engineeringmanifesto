@@ -36,5 +36,6 @@
 情報発信は個人の価値を高めていくのにも役に立ちます。
 
 ## Members Signed
-@t-hiroyoshi, 
+@t-hiroyoshi,
 @shagami,
+@risagon,
