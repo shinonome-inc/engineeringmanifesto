@@ -40,4 +40,3 @@
 @shagami,
 @risagon,
 @motoakim,
-@yoshiaki,
