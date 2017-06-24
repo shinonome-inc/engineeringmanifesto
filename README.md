@@ -43,5 +43,6 @@
 @yoshiaki,
 @gamerinshaft,
 @yasu,
-@nisshii,
 @inoue,
+@higashiyama
+@nisshii,
