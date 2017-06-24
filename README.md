@@ -46,4 +46,7 @@
 @inoue,
 @higashiyama
 @nisshii,
+@tsubasa,
+@itotatu,
+@gaku,
 @chihiro,
