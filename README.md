@@ -43,4 +43,9 @@
 @yoshiaki,
 @gamerinshaft,
 @yasu,
+@inoue,
+@higashiyama
+@nisshii,
+@tsubasa,
+@itotatu,
 @gaku,
