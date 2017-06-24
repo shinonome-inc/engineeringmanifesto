@@ -47,3 +47,7 @@
 @higashiyama
 @nisshii,
 @yosuke,
+@tsubasa,
+@itotatu,
+@gaku,
+@chihiro,
