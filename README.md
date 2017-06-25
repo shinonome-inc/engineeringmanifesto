@@ -46,6 +46,7 @@
 @inoue,
 @higashiyama
 @nisshii,
+@yosuke,
 @tsubasa,
 @itotatu,
 @gaku,
